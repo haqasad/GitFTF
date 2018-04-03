@@ -1,5 +1,8 @@
-"Hello World"  
-"Hello! My name is Asad!"  
+//==========================================================
+// Author:	Asadul Haque
+// Date:	April 2, 2018
+// Subject:	Animal Class, OOP Example
+//==========================================================
 
 package headfirstjava.chapter8.exampleinterface;
 
